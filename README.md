@@ -48,13 +48,10 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 
 1. Sign up in [sanity.io](https://www.sanity.io/) and get `projectId` and `token`
 
-> **Warning**&nbsp;
-> To work with sanity, people how live in Iran should run `VPN`.
-
 2. Clone the project
 
 ```bash
-git clone https://github.com/Amad3eu/slashshop.git
+git clone https://github.com/MuhammadAbraiz/SlaShop.git
 ```
 
 3. Install project dependencies
