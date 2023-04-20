@@ -3,19 +3,19 @@
 ![slash](/public/HeaderSlash.png)
 
 An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/). Styled with [TailwindCSS](https://tailwindcss.com/). This is one of my portfolios, but I would be pleased if these codes helped others, so I published it as an open-source project. feel free to explore it, and if you need help, ask me. I would respond as soon as possible.
+
 <p>To support me, please create <strong>Pull request</strong> and give <strong>star⭐</strong> to this repository.<br/>
    I appreciate your support in advance. ❤</p>
 
 <p>
 
 [Technologies](#technologies) •
-[Demo](#demo) •
 [Features](#features) •
 [Pages](#pages) •
 [Getting started](#getting-started) •
 [Contributing](#contributing) •
 [Contact Me](#contact-me)
-  
+
 ## 🔧Technologies
 
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
@@ -23,10 +23,6 @@ An E-commerce site template, implemented with [Next.js](https://nextjs.org/) and
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindCSS&logoColor=06B6D4)
-
-## ✨Demo
-
-You can visit and explore in the Slash at [https://slashop.vercel.app]().
 
 ## 🔥Features
 
@@ -57,40 +53,40 @@ You can visit and explore in the Slash at [https://slashop.vercel.app]().
 
 2. Clone the project
 
-  ```bash
-  git clone https://github.com/Amad3eu/slashshop.git
-  ```
+```bash
+git clone https://github.com/Amad3eu/slashshop.git
+```
 
 3. Install project dependencies
 
-  ```bash
-  npm install
-  #or
-  yarn add
-  ```
+```bash
+npm install
+#or
+yarn add
+```
 
 4. Enter your `projectId` into `lib/client.ts`
 5. Add `.env` file to root project, and enter your `token` into `.env`
 
-  ```js
-  NEXT_PUBLIC_SANITY_TOKEN= [ENTER YOUR TOKEN]
-  ```
+```js
+NEXT_PUBLIC_SANITY_TOKEN= [ENTER YOUR TOKEN]
+```
 
 6. Go to sanity_onlineshop folder and open new terminal in this path, then
 
-  ```bash
-  sanity start
-  ```
+```bash
+sanity start
+```
 
 open `http://localhost:3333` and enter products.
 
 7. Run the development server in project root path:
 
-  ```bash
-  npm run dev
-  # or
-  yarn dev
-  ```
+```bash
+npm run dev
+# or
+yarn dev
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -112,8 +108,8 @@ Don't forget to give the project a star! Thanks again!
 ## 💬Contact Me
 
   <p>
-    <a href="https://www.linkedin.com/in/luiz-felipe-warmling-amadeu-752692211/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:luizfelipewarmling@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/muhammad-abraiz/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:muhammadabraiz489@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
   
   <hr/>
